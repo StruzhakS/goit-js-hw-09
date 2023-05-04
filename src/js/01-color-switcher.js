@@ -25,4 +25,3 @@ function stopTimer() {
 function getBackgroundColorToBody() {
   body.style.backgroundColor = getRandomHexColor();
 }
-console.log(21334);
